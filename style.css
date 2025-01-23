@@ -1,0 +1,18 @@
+body{
+    margin:0;
+  }
+  header{
+    justify-content: space-between;
+    background-color: #555;
+    display: flex;
+  }
+  nav a {
+      float: left;
+      text-align: center;
+      padding: 25px 10px;
+      color: white;
+      text-decoration: none;
+  }
+  nav a:hover {
+      background-color: crimson;
+  }
